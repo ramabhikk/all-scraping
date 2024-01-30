@@ -1,0 +1,6 @@
+1. Connect to VPN : European. (Optional)
+2. Update file location in "NRA_Traffic.py" => line: 94
+3. Run NRA_Traffic.py
+4. Update "DATA_FOLDER" in "LIVE_traffic_data_formatting2020.py" to previously location updated in "NRA_Traffic.py" (line: 22)
+5. Update "OUT_PATH" in "LIVE_traffic_data_formatting2020.py" to save report file (line: 20)
+6. Run LIVE_traffic_data_formatting2020.py

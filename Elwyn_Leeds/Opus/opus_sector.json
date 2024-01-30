@@ -1,0 +1,22 @@
+{
+    "IT": "IT",
+    "Automotive": "Automotive",
+    "Pharmaceuticals": "Science, Biotech & Pharmaceuticals",
+    "FMCG": "Retail & Consumer Products",
+    "Energy, Environment, Oil & Gas & Raw Materials": "Energy, Mining, Oil & Gas",
+    "Architecture, Infrastructure & Build": "Construction & Civil Engineering",
+    "Professional Services": "Consulting & Corporate Strategy",
+    "Medical (Device & Tech)": "Healthcare & Medical",
+    "Public & Third Sector": "Public Sector",
+    "Retail & e-commerce": "Retail & Consumer Products",
+    "Sales & Marketing": "Marketing, Advertising & PR",
+    "Technology, Media & Telecoms (TMT)": "Broadcasting, Media & Entertainment",
+    "Transport, Travel & Tourism": "Travel, Leisure & Tourism",
+    "Aerospace": "Aerospace",
+    "Defence": "Defence, Military & Armed Forces",
+    "Rail": "Transport & Logistics",
+    "Consultancies": "Consulting & Corporate Strategy",
+    "Marine": "Other",
+    "Fintech & Blockchain": "Banking, Financial Services & Accounting",
+    "Procurement & Supply Chain": "Other"
+}

@@ -1,0 +1,706 @@
+26-Jul-23 23:14:53 [INFO] Intializing the crawler with configurations:
+26-Jul-23 23:14:53 [INFO] Start URL: https://www.opusrecruitmentsolutions.com/search-jobs/
+26-Jul-23 23:14:53 [INFO] Sector File: ./opus_sector.json
+26-Jul-23 23:14:53 [INFO] Limit Days: 7
+26-Jul-23 23:14:53 [INFO] Session: False
+26-Jul-23 23:14:53 [INFO] Starting Crawler
+26-Jul-23 23:14:53 [INFO] Loaded Sectors Succesfully
+26-Jul-23 23:14:53 [INFO] Fetching post urls from listing pages
+26-Jul-23 23:14:53 [INFO] Fetching post urls: https://www.opusrecruitmentsolutions.com/search-jobs/
+26-Jul-23 23:15:24 [INFO] Intializing the crawler with configurations:
+26-Jul-23 23:15:24 [INFO] Start URL: https://www.opusrecruitmentsolutions.com/search-jobs/
+26-Jul-23 23:15:24 [INFO] Sector File: ./opus_sector.json
+26-Jul-23 23:15:24 [INFO] Limit Days: 7
+26-Jul-23 23:15:24 [INFO] Session: False
+26-Jul-23 23:15:24 [INFO] Starting Crawler
+26-Jul-23 23:15:24 [INFO] Loaded Sectors Succesfully
+26-Jul-23 23:15:24 [INFO] Fetching post urls from listing pages
+26-Jul-23 23:15:24 [INFO] Fetching post urls: https://www.opusrecruitmentsolutions.com/search-jobs/
+26-Jul-23 23:15:25 [INFO] Post urls found: 10
+26-Jul-23 23:15:25 [INFO] Saving job posts to Morson_20230726.csv
+26-Jul-23 23:15:25 [INFO] Saving job posts to Morson_20230726.json
+26-Jul-23 23:15:40 [INFO] Intializing the crawler with configurations:
+26-Jul-23 23:15:40 [INFO] Start URL: https://www.opusrecruitmentsolutions.com/search-jobs/
+26-Jul-23 23:15:40 [INFO] Sector File: ./opus_sector.json
+26-Jul-23 23:15:40 [INFO] Limit Days: 7
+26-Jul-23 23:15:40 [INFO] Session: False
+26-Jul-23 23:15:40 [INFO] Starting Crawler
+26-Jul-23 23:15:40 [INFO] Loaded Sectors Succesfully
+26-Jul-23 23:15:40 [INFO] Fetching post urls from listing pages
+26-Jul-23 23:15:40 [INFO] Fetching post urls: https://www.opusrecruitmentsolutions.com/search-jobs/
+26-Jul-23 23:15:41 [INFO] Post urls found: 10
+26-Jul-23 23:15:41 [INFO] Saving job posts to Morson_20230726.csv
+26-Jul-23 23:15:41 [INFO] Saving job posts to Morson_20230726.json
+26-Jul-23 23:15:55 [INFO] Intializing the crawler with configurations:
+26-Jul-23 23:15:55 [INFO] Start URL: https://www.opusrecruitmentsolutions.com/search-jobs/
+26-Jul-23 23:15:55 [INFO] Sector File: ./opus_sector.json
+26-Jul-23 23:15:55 [INFO] Limit Days: 7
+26-Jul-23 23:15:55 [INFO] Session: False
+26-Jul-23 23:15:55 [INFO] Starting Crawler
+26-Jul-23 23:15:55 [INFO] Loaded Sectors Succesfully
+26-Jul-23 23:15:55 [INFO] Fetching post urls from listing pages
+26-Jul-23 23:15:55 [INFO] Fetching post urls: https://www.opusrecruitmentsolutions.com/search-jobs/
+26-Jul-23 23:15:56 [INFO] Fetching post urls: search-jobs/?page=2#jobResults
+26-Jul-23 23:15:56 [INFO] Fetching post urls: search-jobs/?page=3#jobResults
+26-Jul-23 23:15:57 [INFO] Fetching post urls: search-jobs/?page=4#jobResults
+26-Jul-23 23:15:58 [INFO] Fetching post urls: search-jobs/?page=5#jobResults
+26-Jul-23 23:15:59 [INFO] Fetching post urls: search-jobs/?page=6#jobResults
+26-Jul-23 23:16:00 [INFO] Fetching post urls: search-jobs/?page=7#jobResults
+26-Jul-23 23:16:00 [INFO] Fetching post urls: search-jobs/?page=8#jobResults
+26-Jul-23 23:16:01 [INFO] Fetching post urls: search-jobs/?page=9#jobResults
+26-Jul-23 23:16:02 [INFO] Fetching post urls: search-jobs/?page=10#jobResults
+26-Jul-23 23:16:03 [INFO] Fetching post urls: search-jobs/?page=11#jobResults
+26-Jul-23 23:16:04 [INFO] Fetching post urls: search-jobs/?page=12#jobResults
+26-Jul-23 23:16:04 [INFO] Fetching post urls: search-jobs/?page=13#jobResults
+26-Jul-23 23:16:05 [INFO] Fetching post urls: search-jobs/?page=14#jobResults
+26-Jul-23 23:16:06 [INFO] Fetching post urls: search-jobs/?page=15#jobResults
+26-Jul-23 23:16:07 [INFO] Fetching post urls: search-jobs/?page=16#jobResults
+26-Jul-23 23:16:08 [INFO] Fetching post urls: search-jobs/?page=17#jobResults
+26-Jul-23 23:16:09 [INFO] Fetching post urls: search-jobs/?page=18#jobResults
+26-Jul-23 23:16:09 [INFO] Fetching post urls: search-jobs/?page=19#jobResults
+26-Jul-23 23:16:10 [INFO] Fetching post urls: search-jobs/?page=20#jobResults
+26-Jul-23 23:16:11 [INFO] Fetching post urls: search-jobs/?page=21#jobResults
+26-Jul-23 23:16:12 [INFO] Fetching post urls: search-jobs/?page=22#jobResults
+26-Jul-23 23:16:13 [INFO] Fetching post urls: search-jobs/?page=23#jobResults
+26-Jul-23 23:16:13 [INFO] Fetching post urls: search-jobs/?page=24#jobResults
+26-Jul-23 23:16:14 [INFO] Fetching post urls: search-jobs/?page=25#jobResults
+26-Jul-23 23:16:15 [INFO] Fetching post urls: search-jobs/?page=26#jobResults
+26-Jul-23 23:16:16 [INFO] Fetching post urls: search-jobs/?page=27#jobResults
+26-Jul-23 23:16:17 [INFO] Fetching post urls: search-jobs/?page=28#jobResults
+26-Jul-23 23:16:17 [INFO] Fetching post urls: search-jobs/?page=29#jobResults
+26-Jul-23 23:16:18 [INFO] Fetching post urls: search-jobs/?page=30#jobResults
+26-Jul-23 23:16:19 [INFO] Fetching post urls: search-jobs/?page=31#jobResults
+26-Jul-23 23:16:20 [INFO] Fetching post urls: search-jobs/?page=32#jobResults
+26-Jul-23 23:16:21 [INFO] Fetching post urls: search-jobs/?page=33#jobResults
+26-Jul-23 23:16:21 [INFO] Fetching post urls: search-jobs/?page=34#jobResults
+26-Jul-23 23:16:22 [INFO] Fetching post urls: search-jobs/?page=35#jobResults
+26-Jul-23 23:16:23 [INFO] Fetching post urls: search-jobs/?page=36#jobResults
+26-Jul-23 23:16:24 [INFO] Fetching post urls: search-jobs/?page=37#jobResults
+26-Jul-23 23:16:24 [INFO] Post urls found: 365
+26-Jul-23 23:16:24 [INFO] Saving job posts to Morson_20230726.csv
+26-Jul-23 23:16:24 [INFO] Saving job posts to Morson_20230726.json
+26-Jul-23 23:36:35 [INFO] Intializing the crawler with configurations:
+26-Jul-23 23:36:35 [INFO] Start URL: https://www.opusrecruitmentsolutions.com/search-jobs/
+26-Jul-23 23:36:35 [INFO] Sector File: ./opus_sector.json
+26-Jul-23 23:36:35 [INFO] Limit Days: 7
+26-Jul-23 23:36:35 [INFO] Session: False
+26-Jul-23 23:36:35 [INFO] Starting Crawler
+26-Jul-23 23:36:35 [INFO] Loaded Sectors Succesfully
+26-Jul-23 23:36:35 [INFO] Fetching post urls from listing pages
+26-Jul-23 23:36:35 [INFO] Fetching post urls: https://www.opusrecruitmentsolutions.com/search-jobs/
+26-Jul-23 23:36:36 [INFO] Fetching post urls: search-jobs/?page=2#jobResults
+26-Jul-23 23:36:37 [INFO] Fetching post urls: search-jobs/?page=3#jobResults
+26-Jul-23 23:36:38 [INFO] Fetching post urls: search-jobs/?page=4#jobResults
+26-Jul-23 23:36:38 [INFO] Fetching post urls: search-jobs/?page=5#jobResults
+26-Jul-23 23:36:39 [INFO] Fetching post urls: search-jobs/?page=6#jobResults
+26-Jul-23 23:36:40 [INFO] Fetching post urls: search-jobs/?page=7#jobResults
+26-Jul-23 23:36:41 [INFO] Fetching post urls: search-jobs/?page=8#jobResults
+26-Jul-23 23:36:42 [INFO] Fetching post urls: search-jobs/?page=9#jobResults
+26-Jul-23 23:36:42 [INFO] Fetching post urls: search-jobs/?page=10#jobResults
+26-Jul-23 23:36:43 [INFO] Fetching post urls: search-jobs/?page=11#jobResults
+26-Jul-23 23:36:44 [INFO] Fetching post urls: search-jobs/?page=12#jobResults
+26-Jul-23 23:36:45 [INFO] Fetching post urls: search-jobs/?page=13#jobResults
+26-Jul-23 23:36:46 [INFO] Fetching post urls: search-jobs/?page=14#jobResults
+26-Jul-23 23:36:47 [INFO] Fetching post urls: search-jobs/?page=15#jobResults
+26-Jul-23 23:36:47 [INFO] Fetching post urls: search-jobs/?page=16#jobResults
+26-Jul-23 23:36:48 [INFO] Fetching post urls: search-jobs/?page=17#jobResults
+26-Jul-23 23:36:49 [INFO] Fetching post urls: search-jobs/?page=18#jobResults
+26-Jul-23 23:36:50 [INFO] Fetching post urls: search-jobs/?page=19#jobResults
+26-Jul-23 23:36:51 [INFO] Fetching post urls: search-jobs/?page=20#jobResults
+26-Jul-23 23:36:51 [INFO] Fetching post urls: search-jobs/?page=21#jobResults
+26-Jul-23 23:36:52 [INFO] Fetching post urls: search-jobs/?page=22#jobResults
+26-Jul-23 23:36:53 [INFO] Fetching post urls: search-jobs/?page=23#jobResults
+26-Jul-23 23:36:54 [INFO] Fetching post urls: search-jobs/?page=24#jobResults
+26-Jul-23 23:36:54 [INFO] Fetching post urls: search-jobs/?page=25#jobResults
+26-Jul-23 23:36:55 [INFO] Fetching post urls: search-jobs/?page=26#jobResults
+26-Jul-23 23:36:56 [INFO] Fetching post urls: search-jobs/?page=27#jobResults
+26-Jul-23 23:36:57 [INFO] Fetching post urls: search-jobs/?page=28#jobResults
+26-Jul-23 23:36:58 [INFO] Fetching post urls: search-jobs/?page=29#jobResults
+26-Jul-23 23:36:58 [INFO] Fetching post urls: search-jobs/?page=30#jobResults
+26-Jul-23 23:38:43 [INFO] Intializing the crawler with configurations:
+26-Jul-23 23:38:43 [INFO] Start URL: https://www.opusrecruitmentsolutions.com/search-jobs/
+26-Jul-23 23:38:43 [INFO] Sector File: ./opus_sector.json
+26-Jul-23 23:38:43 [INFO] Limit Days: 7
+26-Jul-23 23:38:43 [INFO] Session: False
+26-Jul-23 23:38:43 [INFO] Starting Crawler
+26-Jul-23 23:38:43 [INFO] Loaded Sectors Succesfully
+26-Jul-23 23:38:43 [INFO] Fetching post urls from listing pages
+26-Jul-23 23:38:43 [INFO] Fetching post urls: https://www.opusrecruitmentsolutions.com/search-jobs/
+26-Jul-23 23:38:44 [INFO] Fetching post urls: search-jobs/?page=2#jobResults
+26-Jul-23 23:38:45 [INFO] Fetching post urls: search-jobs/?page=3#jobResults
+26-Jul-23 23:38:45 [INFO] Fetching post urls: search-jobs/?page=4#jobResults
+26-Jul-23 23:38:46 [INFO] Fetching post urls: search-jobs/?page=5#jobResults
+26-Jul-23 23:38:47 [INFO] Fetching post urls: search-jobs/?page=6#jobResults
+26-Jul-23 23:38:48 [INFO] Fetching post urls: search-jobs/?page=7#jobResults
+26-Jul-23 23:38:48 [INFO] Fetching post urls: search-jobs/?page=8#jobResults
+26-Jul-23 23:38:49 [INFO] Fetching post urls: search-jobs/?page=9#jobResults
+26-Jul-23 23:38:50 [INFO] Fetching post urls: search-jobs/?page=10#jobResults
+26-Jul-23 23:38:51 [INFO] Fetching post urls: search-jobs/?page=11#jobResults
+26-Jul-23 23:38:52 [INFO] Fetching post urls: search-jobs/?page=12#jobResults
+26-Jul-23 23:38:52 [INFO] Fetching post urls: search-jobs/?page=13#jobResults
+26-Jul-23 23:38:53 [INFO] Fetching post urls: search-jobs/?page=14#jobResults
+26-Jul-23 23:38:54 [INFO] Fetching post urls: search-jobs/?page=15#jobResults
+26-Jul-23 23:38:55 [INFO] Fetching post urls: search-jobs/?page=16#jobResults
+26-Jul-23 23:38:56 [INFO] Fetching post urls: search-jobs/?page=17#jobResults
+26-Jul-23 23:38:57 [INFO] Fetching post urls: search-jobs/?page=18#jobResults
+26-Jul-23 23:38:57 [INFO] Fetching post urls: search-jobs/?page=19#jobResults
+26-Jul-23 23:38:58 [INFO] Fetching post urls: search-jobs/?page=20#jobResults
+26-Jul-23 23:38:59 [INFO] Fetching post urls: search-jobs/?page=21#jobResults
+26-Jul-23 23:39:00 [INFO] Fetching post urls: search-jobs/?page=22#jobResults
+26-Jul-23 23:39:01 [INFO] Fetching post urls: search-jobs/?page=23#jobResults
+26-Jul-23 23:39:01 [INFO] Fetching post urls: search-jobs/?page=24#jobResults
+26-Jul-23 23:39:02 [INFO] Fetching post urls: search-jobs/?page=25#jobResults
+26-Jul-23 23:39:03 [INFO] Fetching post urls: search-jobs/?page=26#jobResults
+26-Jul-23 23:39:04 [INFO] Fetching post urls: search-jobs/?page=27#jobResults
+26-Jul-23 23:39:04 [INFO] Fetching post urls: search-jobs/?page=28#jobResults
+26-Jul-23 23:39:05 [INFO] Fetching post urls: search-jobs/?page=29#jobResults
+26-Jul-23 23:39:06 [INFO] Fetching post urls: search-jobs/?page=30#jobResults
+26-Jul-23 23:39:07 [INFO] Fetching post urls: search-jobs/?page=31#jobResults
+26-Jul-23 23:39:08 [INFO] Fetching post urls: search-jobs/?page=32#jobResults
+26-Jul-23 23:39:09 [INFO] Fetching post urls: search-jobs/?page=33#jobResults
+26-Jul-23 23:39:09 [INFO] Fetching post urls: search-jobs/?page=34#jobResults
+26-Jul-23 23:39:10 [INFO] Fetching post urls: search-jobs/?page=35#jobResults
+26-Jul-23 23:39:11 [INFO] Fetching post urls: search-jobs/?page=36#jobResults
+26-Jul-23 23:39:12 [INFO] Fetching post urls: search-jobs/?page=37#jobResults
+26-Jul-23 23:39:12 [INFO] Post urls found: 365
+26-Jul-23 23:39:12 [INFO] Fetching job post details
+26-Jul-23 23:39:12 [INFO] Fetching post data: /search-jobs/35018453-3d-artist-job-united-kingdom-city-of-london
+26-Jul-23 23:39:13 [INFO] Fetching post data: /search-jobs/35018452-contract-lead-javascript-developer-job-united-kingdom-england
+26-Jul-23 23:39:14 [INFO] Fetching post data: /search-jobs/35018451-azure-devops-engineer-job-united-kingdom-manchester
+26-Jul-23 23:39:15 [INFO] Fetching post data: /search-jobs/35018450-aws-cloud-engineer-outside-ir35-3-months-start-up-job-united-kingdom-london
+26-Jul-23 23:39:16 [INFO] Fetching post data: /search-jobs/35018449-angular-developer-375-400-outside-ir35-hybrid-job-united-kingdom-cardiff
+26-Jul-23 23:39:17 [INFO] Fetching post data: /search-jobs/35018448-node-developer-6-month-contract-300-325-outside-ir35-hybrid-job-united-kingdom-telford
+26-Jul-23 23:39:17 [INFO] Fetching post data: /search-jobs/35018444-wordpress-developer-contract-job-united-kingdom-kent
+26-Jul-23 23:39:18 [INFO] Fetching post data: /search-jobs/35018427-salesforce-developer-job-united-kingdom-london
+26-Jul-23 23:39:19 [INFO] Fetching post data: /search-jobs/35018425-lead-d365-ce-developer-finance-wealth-management-london-2-days-per-week-job-united-kingdom-london
+26-Jul-23 23:39:20 [INFO] Fetching post data: /search-jobs/35018408-urgent-data-business-analysis-position-12-months-outside-ir35-job-united-kingdom-london
+26-Jul-23 23:39:21 [INFO] Fetching post data: /search-jobs/35018387-business-analyst-pam-outside-ir35-6-month-initial-remote-job-united-kingdom-london
+26-Jul-23 23:39:21 [INFO] Fetching post data: /search-jobs/35018328-senior-front-end-developer-remote-within-australia-job-australia-melbourne
+26-Jul-23 23:39:22 [INFO] Fetching post data: /search-jobs/35018292-azure-devops-engineer-short-term-job-australia-brisbane
+26-Jul-23 23:39:23 [INFO] Fetching post data: /search-jobs/35018289-sc-user-researcher-600-inside-ir35-6-months-contract-job-united-kingdom-london
+26-Jul-23 23:39:24 [INFO] Fetching post data: /search-jobs/35018280-full-stack-developer-outside-ir35-job-united-kingdom-united-kingdom
+26-Jul-23 23:39:25 [INFO] Fetching post data: /search-jobs/35018283-business-central-functional-consultant-food-sector-55-000-75-000-job-united-kingdom-milton-keynes
+26-Jul-23 23:39:25 [INFO] Fetching post data: /search-jobs/35018281-vue-fullstack-developer-6-month-contract-350-400-outside-ir35-hybrid-job-united-kingdom-nottingham
+26-Jul-23 23:39:26 [INFO] Fetching post data: /search-jobs/35018274-power-apps-developer-remote-within-the-uk-45-000-60-000-job-united-kingdom-united-kingdom
+26-Jul-23 23:39:27 [INFO] Fetching post data: /search-jobs/35018265-d365-f-o-supply-chain-management-functional-consultant-london-hybrid-60-000-75-000-bonus-job-united-kingdom-london
+26-Jul-23 23:39:28 [INFO] Fetching post data: /search-jobs/35018243-aws-devops-engineer-2-months-outside-ir35-fully-remote-job-united-kingdom-london
+26-Jul-23 23:39:29 [INFO] Fetching post data: /search-jobs/35018241-digital-marketing-copywriter-freelance-contract-job-united-kingdom-doncaster
+26-Jul-23 23:39:30 [INFO] Fetching post data: /search-jobs/35018237-ruby-contract-job-united-kingdom-remote-work
+26-Jul-23 23:39:30 [INFO] Fetching post data: /search-jobs/35018231-d365-f-o-supply-chain-management-functional-consultant-london-hybrid-60-000-75-000-job-united-kingdom-london
+26-Jul-23 23:39:31 [INFO] Fetching post data: /search-jobs/35018213-net-developer-job-united-kingdom-hampshire
+26-Jul-23 23:39:32 [INFO] Fetching post data: /search-jobs/35018209-technical-delivery-manager-job-united-kingdom-peterborough
+26-Jul-23 23:39:33 [INFO] Fetching post data: /search-jobs/35018207-senior-ruby-developer-remote-in-u-k-and-europe-job-united-kingdom-united-kingdom
+26-Jul-23 23:39:34 [INFO] Fetching post data: /search-jobs/35018205-senior-ruby-developer-remote-in-u-k-and-europe-job-united-kingdom-united-kingdom
+26-Jul-23 23:39:35 [INFO] Fetching post data: /search-jobs/35018186-senior-ios-developer-outside-of-ir-35-job-united-kingdom-london
+26-Jul-23 23:39:35 [INFO] Fetching post data: /search-jobs/35018183-android-developer-part-time-contract-job-australia-brisbane
+26-Jul-23 23:39:36 [INFO] Fetching post data: /search-jobs/35018180-azure-devops-engineer-job-united-kingdom-manchester
+26-Jul-23 23:39:37 [INFO] Fetching post data: /search-jobs/35018178-react-developer-9-month-contract-275-325-outside-ir35-hybrid-remote-job-united-kingdom-nottingham
+26-Jul-23 23:39:38 [INFO] Fetching post data: /search-jobs/35018177-d365-f-o-integration-specialist-job-united-kingdom-remote-work
+26-Jul-23 23:39:39 [INFO] Fetching post data: /search-jobs/35018176-react-developer-350-400-outside-ir35-hybrid-job-united-kingdom-bristol
+26-Jul-23 23:39:39 [INFO] Fetching post data: /search-jobs/35018175-sc-python-developer-job-united-kingdom-milton-keynes
+26-Jul-23 23:39:40 [INFO] Fetching post data: /search-jobs/35018169-contract-node-developer-job-united-kingdom-leeds
+26-Jul-23 23:39:41 [INFO] Fetching post data: /search-jobs/35018153-java-developer-technical-architect-next-java-springboot-aws-80k-remote-job-united-kingdom-north-west-england
+26-Jul-23 23:39:42 [INFO] Fetching post data: /search-jobs/35018152-senior-java-developer-java-springboot-microservices-architect-80k-20-bonus-job-united-kingdom-north-east-england
+26-Jul-23 23:39:42 [INFO] Fetching post data: /search-jobs/35018149-java-developer-step-up-to-architect-80k-up-to-20-bonus-plus-remote-job-united-kingdom-south-west-england
+26-Jul-23 23:39:43 [INFO] Fetching post data: /search-jobs/35018143-hardware-engineer-outside-ir35-400-450p-d-surrey-one-day-a-week-job-united-kingdom-guildford
+26-Jul-23 23:39:44 [INFO] Fetching post data: /search-jobs/35018139-devops-engineer-aws-terraform-jenkins-manchester-hybrid-job-united-kingdom-manchester
+26-Jul-23 23:39:45 [INFO] Fetching post data: /search-jobs/35018128-drupal-developer-remote-55-000-edtech-no-sponsorship-offered-job-united-kingdom-cambridge
+26-Jul-23 23:39:45 [INFO] Fetching post data: /search-jobs/35018125-dv-cleared-security-architect-12-month-contract-corsham-inisde-ir35-job-united-kingdom-corsham
+26-Jul-23 23:39:46 [INFO] Fetching post data: /search-jobs/35018123-urgent-d365-business-central-functional-consultant-job-united-kingdom-stockton-on-tees
+26-Jul-23 23:39:47 [INFO] Fetching post data: /search-jobs/35018122-devops-engineer-job-united-kingdom-plymouth
+26-Jul-23 23:39:48 [INFO] Fetching post data: /search-jobs/35018120-mid-level-scala-developer-part-time-outside-of-ir-35-job-united-kingdom-london
+26-Jul-23 23:39:49 [INFO] Fetching post data: /search-jobs/35018118-wordpress-developer-12-months-outside-ir35-job-united-kingdom-plymouth
+26-Jul-23 23:39:50 [INFO] Fetching post data: /search-jobs/35018113-java-developer-job-united-kingdom-oxford
+26-Jul-23 23:39:50 [INFO] Fetching post data: /search-jobs/35018111-information-management-data-lead-job-australia-melbourne
+26-Jul-23 23:39:51 [INFO] Fetching post data: /search-jobs/35018109-system-engineer-aws-job-australia-sydney
+26-Jul-23 23:39:52 [INFO] Fetching post data: /search-jobs/35018108-senior-backend-engineer-laravel-saas-job-australia-australia
+26-Jul-23 23:39:53 [INFO] Fetching post data: /search-jobs/35018098-software-developer-375-400-outside-ir35-fully-remote-job-united-kingdom-swansea
+26-Jul-23 23:39:54 [INFO] Fetching post data: /search-jobs/35018094-d365-ce-developer-london-1-day-a-fortnight-60-000-80-000-job-united-kingdom-london
+26-Jul-23 23:39:54 [INFO] Fetching post data: /search-jobs/35018091-angular-developer-3-month-contract-400-outside-ir35-hybrid-job-united-kingdom-coventry
+26-Jul-23 23:39:55 [INFO] Fetching post data: /search-jobs/35018088-software-developer-net-azure-devops-job-united-kingdom-reading
+26-Jul-23 23:39:56 [INFO] Fetching post data: /search-jobs/35018087-senior-developer-net-cms-oxford-job-united-kingdom-oxfordshire
+26-Jul-23 23:39:57 [INFO] Fetching post data: /search-jobs/35018082-senior-laravel-developer-job-united-kingdom-bristol
+26-Jul-23 23:43:39 [INFO] Intializing the crawler with configurations:
+26-Jul-23 23:43:39 [INFO] Start URL: https://www.opusrecruitmentsolutions.com/search-jobs/
+26-Jul-23 23:43:39 [INFO] Sector File: ./opus_sector.json
+26-Jul-23 23:43:39 [INFO] Limit Days: 7
+26-Jul-23 23:43:39 [INFO] Session: False
+26-Jul-23 23:43:39 [INFO] Starting Crawler
+26-Jul-23 23:43:39 [INFO] Loaded Sectors Succesfully
+26-Jul-23 23:43:39 [INFO] Fetching post urls from listing pages
+26-Jul-23 23:43:39 [INFO] Fetching post urls: https://www.opusrecruitmentsolutions.com/search-jobs/
+26-Jul-23 23:43:40 [INFO] Fetching post urls: search-jobs/?page=2#jobResults
+26-Jul-23 23:43:41 [INFO] Fetching post urls: search-jobs/?page=3#jobResults
+26-Jul-23 23:43:41 [INFO] Fetching post urls: search-jobs/?page=4#jobResults
+26-Jul-23 23:43:42 [INFO] Fetching post urls: search-jobs/?page=5#jobResults
+26-Jul-23 23:43:43 [INFO] Fetching post urls: search-jobs/?page=6#jobResults
+26-Jul-23 23:43:44 [INFO] Fetching post urls: search-jobs/?page=7#jobResults
+26-Jul-23 23:43:45 [INFO] Fetching post urls: search-jobs/?page=8#jobResults
+26-Jul-23 23:43:45 [INFO] Fetching post urls: search-jobs/?page=9#jobResults
+26-Jul-23 23:43:46 [INFO] Fetching post urls: search-jobs/?page=10#jobResults
+26-Jul-23 23:43:47 [INFO] Fetching post urls: search-jobs/?page=11#jobResults
+26-Jul-23 23:43:48 [INFO] Fetching post urls: search-jobs/?page=12#jobResults
+26-Jul-23 23:43:49 [INFO] Fetching post urls: search-jobs/?page=13#jobResults
+26-Jul-23 23:43:49 [INFO] Fetching post urls: search-jobs/?page=14#jobResults
+26-Jul-23 23:43:50 [INFO] Fetching post urls: search-jobs/?page=15#jobResults
+26-Jul-23 23:43:51 [INFO] Fetching post urls: search-jobs/?page=16#jobResults
+26-Jul-23 23:43:56 [INFO] Fetching post urls: search-jobs/?page=17#jobResults
+26-Jul-23 23:43:57 [INFO] Fetching post urls: search-jobs/?page=18#jobResults
+26-Jul-23 23:43:58 [INFO] Fetching post urls: search-jobs/?page=19#jobResults
+26-Jul-23 23:44:00 [INFO] Fetching post urls: search-jobs/?page=20#jobResults
+26-Jul-23 23:44:00 [INFO] Fetching post urls: search-jobs/?page=21#jobResults
+26-Jul-23 23:44:01 [INFO] Fetching post urls: search-jobs/?page=22#jobResults
+26-Jul-23 23:44:02 [INFO] Fetching post urls: search-jobs/?page=23#jobResults
+26-Jul-23 23:44:03 [INFO] Fetching post urls: search-jobs/?page=24#jobResults
+26-Jul-23 23:44:04 [INFO] Fetching post urls: search-jobs/?page=25#jobResults
+26-Jul-23 23:44:05 [INFO] Fetching post urls: search-jobs/?page=26#jobResults
+26-Jul-23 23:44:05 [INFO] Fetching post urls: search-jobs/?page=27#jobResults
+26-Jul-23 23:44:06 [INFO] Fetching post urls: search-jobs/?page=28#jobResults
+26-Jul-23 23:44:07 [INFO] Fetching post urls: search-jobs/?page=29#jobResults
+26-Jul-23 23:44:08 [INFO] Fetching post urls: search-jobs/?page=30#jobResults
+26-Jul-23 23:44:09 [INFO] Fetching post urls: search-jobs/?page=31#jobResults
+26-Jul-23 23:44:09 [INFO] Fetching post urls: search-jobs/?page=32#jobResults
+26-Jul-23 23:44:10 [INFO] Fetching post urls: search-jobs/?page=33#jobResults
+26-Jul-23 23:44:11 [INFO] Fetching post urls: search-jobs/?page=34#jobResults
+26-Jul-23 23:44:12 [INFO] Fetching post urls: search-jobs/?page=35#jobResults
+26-Jul-23 23:44:13 [INFO] Fetching post urls: search-jobs/?page=36#jobResults
+26-Jul-23 23:44:13 [INFO] Fetching post urls: search-jobs/?page=37#jobResults
+26-Jul-23 23:44:14 [INFO] Post urls found: 365
+26-Jul-23 23:44:14 [INFO] Fetching job post details
+26-Jul-23 23:44:14 [INFO] Fetching post data: /search-jobs/35018453-3d-artist-job-united-kingdom-city-of-london
+26-Jul-23 23:44:15 [INFO] Fetching post data: /search-jobs/35018452-contract-lead-javascript-developer-job-united-kingdom-england
+26-Jul-23 23:44:16 [INFO] Fetching post data: /search-jobs/35018451-azure-devops-engineer-job-united-kingdom-manchester
+26-Jul-23 23:44:16 [INFO] Fetching post data: /search-jobs/35018450-aws-cloud-engineer-outside-ir35-3-months-start-up-job-united-kingdom-london
+26-Jul-23 23:44:17 [INFO] Fetching post data: /search-jobs/35018449-angular-developer-375-400-outside-ir35-hybrid-job-united-kingdom-cardiff
+26-Jul-23 23:44:18 [INFO] Fetching post data: /search-jobs/35018448-node-developer-6-month-contract-300-325-outside-ir35-hybrid-job-united-kingdom-telford
+26-Jul-23 23:44:19 [INFO] Fetching post data: /search-jobs/35018444-wordpress-developer-contract-job-united-kingdom-kent
+26-Jul-23 23:44:20 [INFO] Fetching post data: /search-jobs/35018427-salesforce-developer-job-united-kingdom-london
+26-Jul-23 23:44:20 [INFO] Fetching post data: /search-jobs/35018425-lead-d365-ce-developer-finance-wealth-management-london-2-days-per-week-job-united-kingdom-london
+26-Jul-23 23:44:21 [INFO] Fetching post data: /search-jobs/35018408-urgent-data-business-analysis-position-12-months-outside-ir35-job-united-kingdom-london
+26-Jul-23 23:44:22 [INFO] Fetching post data: /search-jobs/35018387-business-analyst-pam-outside-ir35-6-month-initial-remote-job-united-kingdom-london
+26-Jul-23 23:44:23 [INFO] Fetching post data: /search-jobs/35018328-senior-front-end-developer-remote-within-australia-job-australia-melbourne
+26-Jul-23 23:44:23 [INFO] Fetching post data: /search-jobs/35018292-azure-devops-engineer-short-term-job-australia-brisbane
+26-Jul-23 23:44:24 [INFO] Fetching post data: /search-jobs/35018289-sc-user-researcher-600-inside-ir35-6-months-contract-job-united-kingdom-london
+26-Jul-23 23:44:25 [INFO] Fetching post data: /search-jobs/35018280-full-stack-developer-outside-ir35-job-united-kingdom-united-kingdom
+26-Jul-23 23:44:26 [INFO] Fetching post data: /search-jobs/35018283-business-central-functional-consultant-food-sector-55-000-75-000-job-united-kingdom-milton-keynes
+26-Jul-23 23:44:27 [INFO] Fetching post data: /search-jobs/35018281-vue-fullstack-developer-6-month-contract-350-400-outside-ir35-hybrid-job-united-kingdom-nottingham
+26-Jul-23 23:44:27 [INFO] Fetching post data: /search-jobs/35018274-power-apps-developer-remote-within-the-uk-45-000-60-000-job-united-kingdom-united-kingdom
+26-Jul-23 23:44:28 [INFO] Fetching post data: /search-jobs/35018265-d365-f-o-supply-chain-management-functional-consultant-london-hybrid-60-000-75-000-bonus-job-united-kingdom-london
+26-Jul-23 23:44:29 [INFO] Fetching post data: /search-jobs/35018243-aws-devops-engineer-2-months-outside-ir35-fully-remote-job-united-kingdom-london
+26-Jul-23 23:44:30 [INFO] Fetching post data: /search-jobs/35018241-digital-marketing-copywriter-freelance-contract-job-united-kingdom-doncaster
+26-Jul-23 23:44:31 [INFO] Fetching post data: /search-jobs/35018237-ruby-contract-job-united-kingdom-remote-work
+26-Jul-23 23:44:31 [INFO] Fetching post data: /search-jobs/35018231-d365-f-o-supply-chain-management-functional-consultant-london-hybrid-60-000-75-000-job-united-kingdom-london
+26-Jul-23 23:44:49 [INFO] Intializing the crawler with configurations:
+26-Jul-23 23:44:49 [INFO] Start URL: https://www.opusrecruitmentsolutions.com/search-jobs/
+26-Jul-23 23:44:49 [INFO] Sector File: ./opus_sector.json
+26-Jul-23 23:44:49 [INFO] Limit Days: 7
+26-Jul-23 23:44:49 [INFO] Session: True
+26-Jul-23 23:44:49 [INFO] Starting Crawler
+26-Jul-23 23:44:49 [INFO] Loaded Sectors Succesfully
+26-Jul-23 23:44:49 [INFO] Fetching post urls from listing pages
+26-Jul-23 23:44:49 [INFO] Fetching post urls: https://www.opusrecruitmentsolutions.com/search-jobs/
+26-Jul-23 23:44:50 [INFO] Fetching post urls: search-jobs/?page=2#jobResults
+26-Jul-23 23:44:50 [INFO] Fetching post urls: search-jobs/?page=3#jobResults
+26-Jul-23 23:44:51 [INFO] Fetching post urls: search-jobs/?page=4#jobResults
+26-Jul-23 23:44:51 [INFO] Fetching post urls: search-jobs/?page=5#jobResults
+26-Jul-23 23:44:51 [INFO] Fetching post urls: search-jobs/?page=6#jobResults
+26-Jul-23 23:44:52 [INFO] Fetching post urls: search-jobs/?page=7#jobResults
+26-Jul-23 23:44:52 [INFO] Fetching post urls: search-jobs/?page=8#jobResults
+26-Jul-23 23:44:52 [INFO] Fetching post urls: search-jobs/?page=9#jobResults
+26-Jul-23 23:44:52 [INFO] Fetching post urls: search-jobs/?page=10#jobResults
+26-Jul-23 23:44:53 [INFO] Fetching post urls: search-jobs/?page=11#jobResults
+26-Jul-23 23:44:53 [INFO] Fetching post urls: search-jobs/?page=12#jobResults
+26-Jul-23 23:44:53 [INFO] Fetching post urls: search-jobs/?page=13#jobResults
+26-Jul-23 23:44:53 [INFO] Fetching post urls: search-jobs/?page=14#jobResults
+26-Jul-23 23:44:54 [INFO] Fetching post urls: search-jobs/?page=15#jobResults
+26-Jul-23 23:44:54 [INFO] Fetching post urls: search-jobs/?page=16#jobResults
+26-Jul-23 23:44:54 [INFO] Fetching post urls: search-jobs/?page=17#jobResults
+26-Jul-23 23:44:55 [INFO] Fetching post urls: search-jobs/?page=18#jobResults
+26-Jul-23 23:44:55 [INFO] Fetching post urls: search-jobs/?page=19#jobResults
+26-Jul-23 23:44:55 [INFO] Fetching post urls: search-jobs/?page=20#jobResults
+26-Jul-23 23:44:55 [INFO] Fetching post urls: search-jobs/?page=21#jobResults
+26-Jul-23 23:44:56 [INFO] Fetching post urls: search-jobs/?page=22#jobResults
+26-Jul-23 23:44:56 [INFO] Fetching post urls: search-jobs/?page=23#jobResults
+26-Jul-23 23:44:56 [INFO] Fetching post urls: search-jobs/?page=24#jobResults
+26-Jul-23 23:44:56 [INFO] Fetching post urls: search-jobs/?page=25#jobResults
+26-Jul-23 23:44:57 [INFO] Fetching post urls: search-jobs/?page=26#jobResults
+26-Jul-23 23:44:57 [INFO] Fetching post urls: search-jobs/?page=27#jobResults
+26-Jul-23 23:44:57 [INFO] Fetching post urls: search-jobs/?page=28#jobResults
+26-Jul-23 23:44:58 [INFO] Fetching post urls: search-jobs/?page=29#jobResults
+26-Jul-23 23:44:58 [INFO] Fetching post urls: search-jobs/?page=30#jobResults
+26-Jul-23 23:44:58 [INFO] Fetching post urls: search-jobs/?page=31#jobResults
+26-Jul-23 23:44:58 [INFO] Fetching post urls: search-jobs/?page=32#jobResults
+26-Jul-23 23:44:59 [INFO] Fetching post urls: search-jobs/?page=33#jobResults
+26-Jul-23 23:44:59 [INFO] Fetching post urls: search-jobs/?page=34#jobResults
+26-Jul-23 23:44:59 [INFO] Fetching post urls: search-jobs/?page=35#jobResults
+26-Jul-23 23:45:00 [INFO] Fetching post urls: search-jobs/?page=36#jobResults
+26-Jul-23 23:45:00 [INFO] Fetching post urls: search-jobs/?page=37#jobResults
+26-Jul-23 23:45:00 [INFO] Post urls found: 365
+26-Jul-23 23:45:00 [INFO] Fetching job post details
+26-Jul-23 23:45:00 [INFO] Fetching post data: /search-jobs/35018453-3d-artist-job-united-kingdom-city-of-london
+26-Jul-23 23:45:00 [INFO] Fetching post data: /search-jobs/35018452-contract-lead-javascript-developer-job-united-kingdom-england
+26-Jul-23 23:45:01 [INFO] Fetching post data: /search-jobs/35018451-azure-devops-engineer-job-united-kingdom-manchester
+26-Jul-23 23:45:01 [INFO] Fetching post data: /search-jobs/35018450-aws-cloud-engineer-outside-ir35-3-months-start-up-job-united-kingdom-london
+26-Jul-23 23:45:01 [INFO] Fetching post data: /search-jobs/35018449-angular-developer-375-400-outside-ir35-hybrid-job-united-kingdom-cardiff
+26-Jul-23 23:45:02 [INFO] Fetching post data: /search-jobs/35018448-node-developer-6-month-contract-300-325-outside-ir35-hybrid-job-united-kingdom-telford
+26-Jul-23 23:45:02 [INFO] Fetching post data: /search-jobs/35018444-wordpress-developer-contract-job-united-kingdom-kent
+26-Jul-23 23:45:02 [INFO] Fetching post data: /search-jobs/35018427-salesforce-developer-job-united-kingdom-london
+26-Jul-23 23:45:03 [INFO] Fetching post data: /search-jobs/35018425-lead-d365-ce-developer-finance-wealth-management-london-2-days-per-week-job-united-kingdom-london
+26-Jul-23 23:45:03 [INFO] Fetching post data: /search-jobs/35018408-urgent-data-business-analysis-position-12-months-outside-ir35-job-united-kingdom-london
+26-Jul-23 23:45:03 [INFO] Fetching post data: /search-jobs/35018387-business-analyst-pam-outside-ir35-6-month-initial-remote-job-united-kingdom-london
+26-Jul-23 23:45:03 [INFO] Fetching post data: /search-jobs/35018328-senior-front-end-developer-remote-within-australia-job-australia-melbourne
+26-Jul-23 23:45:04 [INFO] Fetching post data: /search-jobs/35018292-azure-devops-engineer-short-term-job-australia-brisbane
+26-Jul-23 23:45:04 [INFO] Fetching post data: /search-jobs/35018289-sc-user-researcher-600-inside-ir35-6-months-contract-job-united-kingdom-london
+26-Jul-23 23:45:04 [INFO] Fetching post data: /search-jobs/35018280-full-stack-developer-outside-ir35-job-united-kingdom-united-kingdom
+26-Jul-23 23:45:04 [INFO] Fetching post data: /search-jobs/35018283-business-central-functional-consultant-food-sector-55-000-75-000-job-united-kingdom-milton-keynes
+26-Jul-23 23:45:05 [INFO] Fetching post data: /search-jobs/35018281-vue-fullstack-developer-6-month-contract-350-400-outside-ir35-hybrid-job-united-kingdom-nottingham
+26-Jul-23 23:45:05 [INFO] Fetching post data: /search-jobs/35018274-power-apps-developer-remote-within-the-uk-45-000-60-000-job-united-kingdom-united-kingdom
+26-Jul-23 23:45:05 [INFO] Fetching post data: /search-jobs/35018265-d365-f-o-supply-chain-management-functional-consultant-london-hybrid-60-000-75-000-bonus-job-united-kingdom-london
+26-Jul-23 23:45:05 [INFO] Fetching post data: /search-jobs/35018243-aws-devops-engineer-2-months-outside-ir35-fully-remote-job-united-kingdom-london
+26-Jul-23 23:45:06 [INFO] Fetching post data: /search-jobs/35018241-digital-marketing-copywriter-freelance-contract-job-united-kingdom-doncaster
+26-Jul-23 23:45:06 [INFO] Fetching post data: /search-jobs/35018237-ruby-contract-job-united-kingdom-remote-work
+26-Jul-23 23:45:06 [INFO] Fetching post data: /search-jobs/35018231-d365-f-o-supply-chain-management-functional-consultant-london-hybrid-60-000-75-000-job-united-kingdom-london
+26-Jul-23 23:45:06 [INFO] Fetching post data: /search-jobs/35018213-net-developer-job-united-kingdom-hampshire
+26-Jul-23 23:45:07 [INFO] Fetching post data: /search-jobs/35018209-technical-delivery-manager-job-united-kingdom-peterborough
+26-Jul-23 23:45:07 [INFO] Fetching post data: /search-jobs/35018207-senior-ruby-developer-remote-in-u-k-and-europe-job-united-kingdom-united-kingdom
+26-Jul-23 23:45:07 [INFO] Fetching post data: /search-jobs/35018205-senior-ruby-developer-remote-in-u-k-and-europe-job-united-kingdom-united-kingdom
+26-Jul-23 23:45:07 [INFO] Fetching post data: /search-jobs/35018186-senior-ios-developer-outside-of-ir-35-job-united-kingdom-london
+26-Jul-23 23:45:08 [INFO] Fetching post data: /search-jobs/35018183-android-developer-part-time-contract-job-australia-brisbane
+26-Jul-23 23:45:08 [INFO] Fetching post data: /search-jobs/35018180-azure-devops-engineer-job-united-kingdom-manchester
+26-Jul-23 23:45:08 [INFO] Fetching post data: /search-jobs/35018178-react-developer-9-month-contract-275-325-outside-ir35-hybrid-remote-job-united-kingdom-nottingham
+26-Jul-23 23:45:08 [INFO] Fetching post data: /search-jobs/35018177-d365-f-o-integration-specialist-job-united-kingdom-remote-work
+26-Jul-23 23:45:09 [INFO] Fetching post data: /search-jobs/35018176-react-developer-350-400-outside-ir35-hybrid-job-united-kingdom-bristol
+26-Jul-23 23:45:09 [INFO] Fetching post data: /search-jobs/35018175-sc-python-developer-job-united-kingdom-milton-keynes
+26-Jul-23 23:45:09 [INFO] Fetching post data: /search-jobs/35018169-contract-node-developer-job-united-kingdom-leeds
+26-Jul-23 23:45:10 [INFO] Fetching post data: /search-jobs/35018153-java-developer-technical-architect-next-java-springboot-aws-80k-remote-job-united-kingdom-north-west-england
+26-Jul-23 23:45:10 [INFO] Fetching post data: /search-jobs/35018152-senior-java-developer-java-springboot-microservices-architect-80k-20-bonus-job-united-kingdom-north-east-england
+26-Jul-23 23:45:10 [INFO] Fetching post data: /search-jobs/35018149-java-developer-step-up-to-architect-80k-up-to-20-bonus-plus-remote-job-united-kingdom-south-west-england
+26-Jul-23 23:45:10 [INFO] Fetching post data: /search-jobs/35018143-hardware-engineer-outside-ir35-400-450p-d-surrey-one-day-a-week-job-united-kingdom-guildford
+26-Jul-23 23:45:11 [INFO] Fetching post data: /search-jobs/35018139-devops-engineer-aws-terraform-jenkins-manchester-hybrid-job-united-kingdom-manchester
+26-Jul-23 23:45:11 [INFO] Fetching post data: /search-jobs/35018128-drupal-developer-remote-55-000-edtech-no-sponsorship-offered-job-united-kingdom-cambridge
+26-Jul-23 23:45:11 [INFO] Fetching post data: /search-jobs/35018125-dv-cleared-security-architect-12-month-contract-corsham-inisde-ir35-job-united-kingdom-corsham
+26-Jul-23 23:45:12 [INFO] Fetching post data: /search-jobs/35018123-urgent-d365-business-central-functional-consultant-job-united-kingdom-stockton-on-tees
+26-Jul-23 23:45:12 [INFO] Fetching post data: /search-jobs/35018122-devops-engineer-job-united-kingdom-plymouth
+26-Jul-23 23:45:12 [INFO] Fetching post data: /search-jobs/35018120-mid-level-scala-developer-part-time-outside-of-ir-35-job-united-kingdom-london
+26-Jul-23 23:45:12 [INFO] Fetching post data: /search-jobs/35018118-wordpress-developer-12-months-outside-ir35-job-united-kingdom-plymouth
+26-Jul-23 23:45:13 [INFO] Fetching post data: /search-jobs/35018113-java-developer-job-united-kingdom-oxford
+26-Jul-23 23:45:13 [INFO] Fetching post data: /search-jobs/35018111-information-management-data-lead-job-australia-melbourne
+26-Jul-23 23:45:13 [INFO] Fetching post data: /search-jobs/35018109-system-engineer-aws-job-australia-sydney
+26-Jul-23 23:45:13 [INFO] Fetching post data: /search-jobs/35018108-senior-backend-engineer-laravel-saas-job-australia-australia
+26-Jul-23 23:45:14 [INFO] Fetching post data: /search-jobs/35018098-software-developer-375-400-outside-ir35-fully-remote-job-united-kingdom-swansea
+26-Jul-23 23:45:14 [INFO] Fetching post data: /search-jobs/35018094-d365-ce-developer-london-1-day-a-fortnight-60-000-80-000-job-united-kingdom-london
+26-Jul-23 23:45:14 [INFO] Fetching post data: /search-jobs/35018091-angular-developer-3-month-contract-400-outside-ir35-hybrid-job-united-kingdom-coventry
+26-Jul-23 23:45:15 [INFO] Fetching post data: /search-jobs/35018088-software-developer-net-azure-devops-job-united-kingdom-reading
+26-Jul-23 23:45:15 [INFO] Fetching post data: /search-jobs/35018087-senior-developer-net-cms-oxford-job-united-kingdom-oxfordshire
+26-Jul-23 23:45:15 [INFO] Fetching post data: /search-jobs/35018082-senior-laravel-developer-job-united-kingdom-bristol
+26-Jul-23 23:45:15 [INFO] Fetching post data: /search-jobs/35018079-d365-business-central-product-manager-job-united-kingdom-london
+26-Jul-23 23:45:16 [INFO] Fetching post data: /search-jobs/35018073-senior-navision-developer-manufacturing-65-000-80-000-east-london-hybrid-job-united-kingdom-stratford
+26-Jul-23 23:45:16 [INFO] Fetching post data: /search-jobs/35018057-software-engineer-net-job-united-kingdom-bristol
+26-Jul-23 23:45:16 [INFO] Fetching post data: /search-jobs/35018042-d365-f-o-senior-project-manager-job-united-kingdom-london
+26-Jul-23 23:45:16 [INFO] Fetching post data: /search-jobs/35018040-contract-power-bi-developer-job-united-kingdom-leeds
+26-Jul-23 23:45:17 [INFO] Fetching post data: /search-jobs/35018036-crm-manager-job-united-kingdom-reading
+26-Jul-23 23:45:17 [INFO] Fetching post data: /search-jobs/35018034-it-operations-manager-birmingham-hybrid-50-000-70-000-job-united-kingdom-united-kingdom
+26-Jul-23 23:45:17 [INFO] Fetching post data: /search-jobs/35018015-contract-react-developer-job-united-kingdom-manchester
+26-Jul-23 23:45:18 [INFO] Fetching post data: /search-jobs/35018014-azure-finops-consultant-outside-ir35-fully-remote-working-job-united-kingdom-london
+26-Jul-23 23:45:18 [INFO] Fetching post data: /search-jobs/35018005-senior-full-stack-developer-net-react-job-australia-sydney
+26-Jul-23 23:45:19 [INFO] Fetching post data: /search-jobs/35018004-product-director-job-united-kingdom-united-kingdom
+26-Jul-23 23:45:19 [INFO] Fetching post data: /search-jobs/35018002-frontend-developer-job-united-kingdom-leicester
+26-Jul-23 23:45:19 [INFO] Fetching post data: /search-jobs/35017996-sc-dv-cleared-security-engineer-south-west-60-000-70-000-job-united-kingdom-bristol
+26-Jul-23 23:45:20 [INFO] Fetching post data: /search-jobs/35017994-kubernetes-cloud-engineer-job-united-kingdom-gloucester
+26-Jul-23 23:45:20 [INFO] Fetching post data: /search-jobs/35017992-senior-data-engineer-newport-70-000-azure-sql-devops-job-united-kingdom-cardiff
+26-Jul-23 23:45:20 [INFO] Fetching post data: /search-jobs/35017982-salesforce-developer-job-united-kingdom-london
+26-Jul-23 23:45:20 [INFO] Fetching post data: /search-jobs/35017978-angular-node-developer-400-425-outside-ir35-fully-remote-job-united-kingdom-bristol
+26-Jul-23 23:45:21 [INFO] Fetching post data: /search-jobs/35017973-junior-mid-level-net-developer-job-united-kingdom-cardiff
+26-Jul-23 23:45:21 [INFO] Fetching post data: /search-jobs/35017970-senior-lead-developer-job-united-kingdom-cardiff
+26-Jul-23 23:45:21 [INFO] Fetching post data: /search-jobs/35017958-application-support-analyst-london-65-000-80-000-bonus-job-united-kingdom-london
+26-Jul-23 23:45:22 [INFO] Fetching post data: /search-jobs/35017949-developpeur-frontend-angular-junior-nantes-cdi-job-france-nantes
+26-Jul-23 23:45:22 [INFO] Fetching post data: /search-jobs/35017942-contract-business-change-manager-job-united-kingdom-edinburgh
+26-Jul-23 23:45:22 [INFO] Fetching post data: /search-jobs/35017941-dynamics-f-o-finance-consultant-remote-working-job-united-kingdom-remote-work
+26-Jul-23 23:45:22 [INFO] Fetching post data: /search-jobs/35017926-lead-developer-job-united-kingdom-london
+26-Jul-23 23:45:23 [INFO] Fetching post data: /search-jobs/35017925-software-engineer-job-united-kingdom-london
+26-Jul-23 23:45:23 [INFO] Fetching post data: /search-jobs/35017922-azure-data-engineer-vacancy-power-bi-dynamics-365-experience-required-6-months-job-united-kingdom-london
+26-Jul-23 23:45:23 [INFO] Fetching post data: /search-jobs/35017919-microsoft-dynamics-ce-developer-london-hybrid-70-000-80-000-job-united-kingdom-london
+26-Jul-23 23:45:24 [INFO] Fetching post data: /search-jobs/35017920-statistical-modeling-consultant-job-united-kingdom-london
+26-Jul-23 23:45:24 [INFO] Fetching post data: /search-jobs/35017915-mulesoft-lead-developer-job-australia-melbourne
+26-Jul-23 23:45:24 [INFO] Fetching post data: /search-jobs/35017913-contract-net-developer-job-united-kingdom-manchester
+26-Jul-23 23:45:24 [INFO] Fetching post data: /search-jobs/35017912-aws-devops-engineer-6-months-outside-ir35-fully-remote-job-united-kingdom-london
+26-Jul-23 23:45:25 [INFO] Fetching post data: /search-jobs/35017908-node-developer-job-united-kingdom-walsall
+26-Jul-23 23:45:25 [INFO] Fetching post data: /search-jobs/35017905-contract-angular-developer-job-united-kingdom-leeds
+26-Jul-23 23:45:25 [INFO] Fetching post data: /search-jobs/35017903-developpeur-fullstack-nestjs-node-full-remote-cdi-job-france-remote-work
+26-Jul-23 23:45:26 [INFO] Fetching post data: /search-jobs/35017901-senior-drupal-developer-job-united-kingdom-bristol
+26-Jul-23 23:45:26 [INFO] Fetching post data: /search-jobs/35017894-lead-developer-job-united-kingdom-leicester
+26-Jul-23 23:45:26 [INFO] Fetching post data: /search-jobs/35017886-senior-data-engineer-65-000-newport-azure-sql-python-etl-ci-cd-kubernetes-job-united-kingdom-newport
+26-Jul-23 23:45:26 [INFO] Fetching post data: /search-jobs/35017867-lead-developer-job-united-kingdom-leeds
+26-Jul-23 23:45:27 [INFO] Fetching post data: /search-jobs/35017829-executive-administrator-job-united-kingdom-southwark
+26-Jul-23 23:45:27 [INFO] Fetching post data: /search-jobs/35017826-campaigns-assistant-job-united-kingdom-southwark
+26-Jul-23 23:45:27 [INFO] Fetching post data: /search-jobs/35017823-ruby-developer-contract-job-united-kingdom-remote-work
+26-Jul-23 23:45:28 [INFO] Fetching post data: /search-jobs/35017820-copywriter-content-manager-job-united-kingdom-london
+26-Jul-23 23:45:28 [INFO] Fetching post data: /search-jobs/35017816-senior-brand-strategist-job-australia-sydney
+26-Jul-23 23:45:28 [INFO] Fetching post data: /search-jobs/35017815-software-developer-php-laravel-job-australia-melbourne
+26-Jul-23 23:45:28 [INFO] Fetching post data: /search-jobs/35017814-senior-android-developer-job-australia-sydney
+26-Jul-23 23:45:29 [INFO] Fetching post data: /search-jobs/35017813-jun-mid-react-native-engineer-job-australia-melbourne
+26-Jul-23 23:45:29 [INFO] Fetching post data: /search-jobs/35017810-senior-aws-engineer-platform-engineer-600-650-a-day-inside-ir35-hybrid-remote-wiltshire-job-united-kingdom-wiltshire
+26-Jul-23 23:45:29 [INFO] Fetching post data: /search-jobs/35017805-senior-devops-engineer-outside-ir35-ai-sector-experience-required-job-united-kingdom-london
+26-Jul-23 23:45:29 [INFO] Fetching post data: /search-jobs/35017804-full-stack-developer-350-400-outside-ir35-hybrid-job-united-kingdom-wiltshire
+26-Jul-23 23:45:30 [INFO] Fetching post data: /search-jobs/35017803-contract-full-stack-javascript-developer-job-united-kingdom-manchester
+26-Jul-23 23:45:30 [INFO] Fetching post data: /search-jobs/35017801-azure-and-crm-developer-uk-based-60-000-75-000-job-united-kingdom-united-kingdom
+26-Jul-23 23:45:30 [INFO] Fetching post data: /search-jobs/35017799-d365-f-o-developer-job-united-kingdom-remote-work
+26-Jul-23 23:45:31 [INFO] Fetching post data: /search-jobs/35017796-cloud-engineer-job-united-kingdom-bath
+26-Jul-23 23:45:31 [INFO] Fetching post data: /search-jobs/35017793-junior-mid-level-developer-job-united-kingdom-swansea
+26-Jul-23 23:45:31 [INFO] Fetching post data: /search-jobs/35017791-sc-cleared-infrastructure-engineer-job-united-kingdom-stoke-on-trent
+26-Jul-23 23:45:32 [INFO] Fetching post data: /search-jobs/35017790-senior-developer-job-united-kingdom-swansea
+26-Jul-23 23:45:32 [INFO] Fetching post data: /search-jobs/35017787-lead-developer-job-united-kingdom-swansea
+26-Jul-23 23:45:32 [INFO] Fetching post data: /search-jobs/35017782-it-business-analyst-job-united-kingdom-bristol
+26-Jul-23 23:45:32 [INFO] Fetching post data: /search-jobs/35017779-net-developer-50k-60k-digital-rebuild-job-united-kingdom-hampshire
+26-Jul-23 23:45:33 [INFO] Fetching post data: /search-jobs/35017777-test-lead-hr-transformation-job-united-kingdom-london
+26-Jul-23 23:45:33 [INFO] Fetching post data: /search-jobs/35017770-support-engineer-sheffiled-tech4good-25-000-35-000-job-united-kingdom-sheffield
+26-Jul-23 23:45:33 [INFO] Fetching post data: /search-jobs/35017765-devops-engineer-aws-60k-job-united-kingdom-greater-manchester
+26-Jul-23 23:45:34 [INFO] Fetching post data: /search-jobs/35017755-c-wpf-developer-job-united-kingdom-london
+26-Jul-23 23:45:34 [INFO] Fetching post data: /search-jobs/35017748-devops-manager-job-australia-melbourne
+26-Jul-23 23:45:34 [INFO] Fetching post data: /search-jobs/35017737-cyber-security-manager-job-australia-melbourne
+26-Jul-23 23:45:34 [INFO] Fetching post data: /search-jobs/35017720-engineering-manager-java-job-australia-melbourne
+26-Jul-23 23:45:35 [INFO] Fetching post data: /search-jobs/35017709-lead-fullstack-developer-consulting-job-australia-melbourne
+26-Jul-23 23:45:35 [INFO] Fetching post data: /search-jobs/35017708-founding-product-designer-mobile-app-design-experience-required-job-united-kingdom-london
+26-Jul-23 23:45:35 [INFO] Fetching post data: /search-jobs/35017707-contract-azure-devops-engineer-job-united-kingdom-leeds
+26-Jul-23 23:45:36 [INFO] Fetching post data: /search-jobs/35017706-net-developer-350-400-outside-ir35-fully-remote-job-united-kingdom-bristol
+26-Jul-23 23:45:36 [INFO] Fetching post data: /search-jobs/35017705-angular-developer-job-united-kingdom-birmingham
+26-Jul-23 23:45:36 [INFO] Fetching post data: /search-jobs/35017704-python-developer-job-united-kingdom-wiltshire
+26-Jul-23 23:45:36 [INFO] Fetching post data: /search-jobs/35017703-data-engineer-45-000-hybrid-job-united-kingdom-milton-keynes
+26-Jul-23 23:45:37 [INFO] Fetching post data: /search-jobs/35017694-d365-ce-functional-consultant-uk-remote-first-45-000-65-000-job-united-kingdom-united-kingdom
+26-Jul-23 23:45:37 [INFO] Fetching post data: /search-jobs/35017689-devops-engineer-job-united-kingdom-bath
+26-Jul-23 23:45:37 [INFO] Fetching post data: /search-jobs/35017683-contract-front-end-developer-job-united-kingdom-leeds
+26-Jul-23 23:45:38 [INFO] Fetching post data: /search-jobs/35017681-d365-senior-finance-functional-consultant-job-united-kingdom-london
+26-Jul-23 23:45:38 [INFO] Fetching post data: /search-jobs/35017669-tech-lead-job-united-kingdom-gloucestershire
+26-Jul-23 23:45:38 [INFO] Fetching post data: /search-jobs/35017665-azure-security-engineer-london-hybrid-fintech-60k-80k-job-united-kingdom-london
+26-Jul-23 23:45:38 [INFO] Fetching post data: /search-jobs/35017623-power-apps-developer-london-once-a-quarter-50-000-65-000-job-united-kingdom-london
+26-Jul-23 23:45:39 [INFO] Fetching post data: /search-jobs/35017584-senior-net-developer-job-united-kingdom-united-kingdom
+26-Jul-23 23:45:39 [INFO] Fetching post data: /search-jobs/35017581-azure-pre-sales-consultant-job-united-kingdom-united-kingdom
+26-Jul-23 23:45:39 [INFO] Fetching post data: /search-jobs/35017576-d365-business-central-technical-consultant-job-united-kingdom-london-arena
+26-Jul-23 23:45:40 [INFO] Fetching post data: /search-jobs/35017572-pmo-manager-job-united-kingdom-edinburgh
+26-Jul-23 23:45:40 [INFO] Fetching post data: /search-jobs/35017571-unity-developer-job-united-kingdom-london
+26-Jul-23 23:45:40 [INFO] Fetching post data: /search-jobs/35017569-head-of-engineering-job-australia-melbourne
+26-Jul-23 23:45:40 [INFO] Fetching post data: /search-jobs/35017567-senior-full-stack-engineer-fully-remote-within-australia-job-australia-australia
+26-Jul-23 23:45:41 [INFO] Fetching post data: /search-jobs/35017566-senior-front-end-developer-job-australia-melbourne
+26-Jul-23 23:45:41 [INFO] Fetching post data: /search-jobs/35017565-head-of-ux-job-australia-sydney
+26-Jul-23 23:45:41 [INFO] Fetching post data: /search-jobs/35017564-security-consultant-job-australia-melbourne-c-b-d
+26-Jul-23 23:45:42 [INFO] Fetching post data: /search-jobs/35017563-engineering-manager-net-job-australia-sydney
+26-Jul-23 23:45:42 [INFO] Fetching post data: /search-jobs/35017558-security-cleared-solutions-architect-required-healthcare-experience-necessary-6-months-job-united-kingdom-london
+26-Jul-23 23:45:42 [INFO] Fetching post data: /search-jobs/35017557-senior-react-developer-85k-hybrid-kent-job-united-kingdom-kent
+26-Jul-23 23:45:42 [INFO] Fetching post data: /search-jobs/35017553-full-stack-developer-350-450-outside-ir35-hybrid-job-united-kingdom-bristol
+26-Jul-23 23:45:43 [INFO] Fetching post data: /search-jobs/35017551-php-laravel-full-stack-contract-job-united-kingdom-reading
+26-Jul-23 23:45:43 [INFO] Fetching post data: /search-jobs/35017552-react-developer-job-united-kingdom-derbyshire
+26-Jul-23 23:45:43 [INFO] Fetching post data: /search-jobs/35017550-devops-engineer-remote-first-business-gcp-job-united-kingdom-united-kingdom
+26-Jul-23 23:45:44 [INFO] Fetching post data: /search-jobs/35017548-hardware-engineer-outside-ir35-1-days-on-site-surrey-400pd-job-united-kingdom-surrey
+26-Jul-23 23:45:44 [INFO] Fetching post data: /search-jobs/35017544-azure-devops-engineer-with-a-i-experience-job-united-kingdom-manchester
+26-Jul-23 23:45:44 [INFO] Fetching post data: /search-jobs/35017516-dynamics-crm-consultant-team-lead-outside-ir35-job-united-kingdom-greater-manchester
+26-Jul-23 23:45:44 [INFO] Fetching post data: /search-jobs/35017508-brand-social-manager-job-united-kingdom-london
+26-Jul-23 23:45:45 [INFO] Fetching post data: /search-jobs/35017506-xamarin-focused-net-developer-job-united-kingdom-wolverhampton
+26-Jul-23 23:45:45 [INFO] Fetching post data: /search-jobs/35017503-dv-cleared-aws-infrastructure-consultant-inside-ri35-job-united-kingdom-corsham
+26-Jul-23 23:45:45 [INFO] Fetching post data: /search-jobs/35017502-net-developer-job-united-kingdom-london
+26-Jul-23 23:45:46 [INFO] Fetching post data: /search-jobs/35017417-engineering-manager-mobile-job-australia-sydney
+26-Jul-23 23:45:46 [INFO] Fetching post data: /search-jobs/35017412-d365-finance-functional-consultant-german-speaking-job-germany-muenchen
+26-Jul-23 23:45:46 [INFO] Fetching post data: /search-jobs/35017411-react-engineer-job-united-kingdom-city-of-london
+26-Jul-23 23:45:46 [INFO] Fetching post data: /search-jobs/35017410-full-stack-developer-250-300-outside-ir35-fully-remote-job-united-kingdom-falmouth
+26-Jul-23 23:45:47 [INFO] Fetching post data: /search-jobs/35017409-interim-ruby-tech-lead-contract-job-united-kingdom-remote-work
+26-Jul-23 23:45:47 [INFO] Fetching post data: /search-jobs/35017408-lead-fullstack-developer-job-united-kingdom-birmingham
+26-Jul-23 23:45:48 [INFO] Fetching post data: /search-jobs/35017407-contract-azure-devops-engineer-job-united-kingdom-manchester
+26-Jul-23 23:45:48 [INFO] Fetching post data: /search-jobs/35017404-sc-dv-cleared-security-architect-south-west-award-winning-organisation-70-000-85-000-job-united-kingdom-bristol
+26-Jul-23 23:45:48 [INFO] Fetching post data: /search-jobs/35017395-devops-engineer-job-united-kingdom-gloucester
+26-Jul-23 23:45:49 [INFO] Fetching post data: /search-jobs/35017391-c-developer-job-united-kingdom-cambridge
+26-Jul-23 23:45:49 [INFO] Fetching post data: /search-jobs/35017389-junior-mid-net-developer-job-united-kingdom-bristol
+26-Jul-23 23:45:49 [INFO] Fetching post data: /search-jobs/35017388-c-developer-job-united-kingdom-cambridge
+26-Jul-23 23:45:50 [INFO] Fetching post data: /search-jobs/35017383-data-centre-engineer-job-united-kingdom-worcester
+26-Jul-23 23:45:50 [INFO] Fetching post data: /search-jobs/35017371-delivery-manager-job-united-kingdom-united-kingdom
+26-Jul-23 23:45:50 [INFO] Fetching post data: /search-jobs/35017364-dv-cleared-solutions-assurance-architect-job-united-kingdom-corsham
+26-Jul-23 23:45:50 [INFO] Fetching post data: /search-jobs/35017347-head-of-engineering-fast-growing-saas-company-85-000-120-000-job-united-kingdom-redditch
+26-Jul-23 23:45:51 [INFO] Fetching post data: /search-jobs/35017340-net-developer-job-united-kingdom-bilston
+26-Jul-23 23:45:51 [INFO] Fetching post data: /search-jobs/35017336-azure-consultant-job-united-kingdom-york
+26-Jul-23 23:45:51 [INFO] Fetching post data: /search-jobs/35017327-azure-cloud-security-architect-london-100k-120k-job-united-kingdom-london
+26-Jul-23 23:45:52 [INFO] Fetching post data: /search-jobs/35017324-cloud-security-engineer-uk-wide-with-travel-60k-80k-job-united-kingdom-united-kingdom
+26-Jul-23 23:45:52 [INFO] Fetching post data: /search-jobs/35017314-lead-ruby-developer-position-fast-growing-property-company-80-000-95-000-job-united-kingdom-remote-work
+26-Jul-23 23:45:52 [INFO] Fetching post data: /search-jobs/35017313-aws-devops-engineer-job-united-kingdom-city-of-london
+26-Jul-23 23:45:53 [INFO] Fetching post data: /search-jobs/35017312-azure-devops-cloud-engineer-job-united-kingdom-liverpool
+26-Jul-23 23:45:53 [INFO] Fetching post data: /search-jobs/35017311-green-energy-data-engineer-75-000-80-000-aws-athena-glue-python-ec2-job-united-kingdom-cambridge
+26-Jul-23 23:45:53 [INFO] Fetching post data: /search-jobs/35017310-senior-c-programmer-job-united-kingdom-london
+26-Jul-23 23:45:53 [INFO] Fetching post data: /search-jobs/35017309-senior-business-central-developer-london-remote-retail-sector-70-000-90-000-job-united-kingdom-london
+26-Jul-23 23:45:54 [INFO] Fetching post data: /search-jobs/35017308-angular-developer-300-400-outside-ir35-hybrid-job-united-kingdom-bristol
+26-Jul-23 23:45:54 [INFO] Fetching post data: /search-jobs/35017303-vue-developer-job-united-kingdom-birmingham
+26-Jul-23 23:45:54 [INFO] Fetching post data: /search-jobs/35017301-d365-ce-crm-senior-support-analyst-job-united-kingdom-birmingham
+26-Jul-23 23:45:55 [INFO] Fetching post data: /search-jobs/35017295-d365-business-central-developer-x-retail-experience-job-united-kingdom-london
+26-Jul-23 23:45:55 [INFO] Fetching post data: /search-jobs/35017282-java-developer-vue-js-golang-java-aws-85k-fintech-job-united-kingdom-reading
+26-Jul-23 23:45:55 [INFO] Fetching post data: /search-jobs/35017281-java-developer-java-golang-vue-js-85k-remote-or-hybrid-policy-available-job-united-kingdom-bristol
+26-Jul-23 23:45:55 [INFO] Fetching post data: /search-jobs/35017279-d365-ce-developer-charity-55000-65000-job-united-kingdom-london
+26-Jul-23 23:45:56 [INFO] Fetching post data: /search-jobs/35017235-devops-engineer-paas-80k-1xpw-edinburgh-job-united-kingdom-edinburgh
+26-Jul-23 23:45:56 [INFO] Fetching post data: /search-jobs/35017188-gcp-devops-engineer-6-month-contract-job-united-kingdom-remote-work
+26-Jul-23 23:45:56 [INFO] Fetching post data: /search-jobs/35017176-gcp-security-consultant-outside-ir35-6-month-initial-550-600p-d-job-united-kingdom-london
+26-Jul-23 23:45:57 [INFO] Fetching post data: /search-jobs/35017174-qa-automation-engineer-selenium-cypress-remote-hampshire-45-000-55-000-job-united-kingdom-hampshire
+26-Jul-23 23:45:57 [INFO] Fetching post data: /search-jobs/35017167-hardware-engineer-outside-ir35-1-days-on-site-surrey-400pd-job-united-kingdom-surrey
+26-Jul-23 23:45:57 [INFO] Fetching post data: /search-jobs/35017106-d365-f-o-ax-technical-architect-job-netherlands-rotterdam
+26-Jul-23 23:45:57 [INFO] Fetching post data: /search-jobs/35017096-user-researcher-job-united-kingdom-london
+26-Jul-23 23:45:58 [INFO] Fetching post data: /search-jobs/34990880-senior-security-architect-job-australia-melbourne
+26-Jul-23 23:45:58 [INFO] Fetching post data: /search-jobs/35017094-cyber-security-engineer-job-australia-melbourne
+26-Jul-23 23:45:58 [INFO] Fetching post data: /search-jobs/35017092-node-developer-job-united-kingdom-nottingham
+26-Jul-23 23:45:59 [INFO] Fetching post data: /search-jobs/35017083-d365-ce-developer-uk-wide-65-000-80-000-job-united-kingdom-united-kingdom
+26-Jul-23 23:45:59 [INFO] Fetching post data: /search-jobs/35017080-it-support-engineer-sheffield-tech4good-25-000-35-000-job-united-kingdom-sheffield
+26-Jul-23 23:45:59 [INFO] Fetching post data: /search-jobs/35017075-migration-engineer-developer-6-months-remote-job-united-kingdom-london
+26-Jul-23 23:45:59 [INFO] Fetching post data: /search-jobs/35016993-senior-ruby-developer-tdd-expert-job-united-kingdom-london
+26-Jul-23 23:46:00 [INFO] Fetching post data: /search-jobs/35016978-data-engineer-azure-data-factory-pyspark-60k-job-united-kingdom-york
+26-Jul-23 23:46:00 [INFO] Fetching post data: /search-jobs/35016943-digital-administrator-job-united-kingdom-southwark
+26-Jul-23 23:46:00 [INFO] Fetching post data: /search-jobs/35016918-dynamics-crm-ce-developer-marketing-module-job-united-kingdom-london
+26-Jul-23 23:46:01 [INFO] Fetching post data: /search-jobs/35016911-d365-f-o-solution-architect-job-united-kingdom-remote-work
+26-Jul-23 23:46:01 [INFO] Fetching post data: /search-jobs/35016825-ruby-on-rails-engineer-victoria-based-job-australia-victoria
+26-Jul-23 23:46:01 [INFO] Fetching post data: /search-jobs/35016824-technical-team-lead-australia-remote-saas-platform-job-australia-sydney
+26-Jul-23 23:46:01 [INFO] Fetching post data: /search-jobs/35016820-react-developer-300-400-outside-ir35-6-months-job-united-kingdom-newport
+26-Jul-23 23:46:02 [INFO] Fetching post data: /search-jobs/35016819-angular-developer-job-united-kingdom-coventry
+26-Jul-23 23:46:02 [INFO] Fetching post data: /search-jobs/35016818-contract-devops-engineer-job-united-kingdom-manchester
+26-Jul-23 23:46:02 [INFO] Fetching post data: /search-jobs/35016817-project-manager-job-united-kingdom-london
+26-Jul-23 23:46:03 [INFO] Fetching post data: /search-jobs/35016816-php-laravel-developer-6-month-contract-job-united-kingdom-bristol
+26-Jul-23 23:46:03 [INFO] Fetching post data: /search-jobs/35016815-contract-vue-developer-job-united-kingdom-manchester
+26-Jul-23 23:46:03 [INFO] Fetching post data: /search-jobs/35016785-senior-php-developer-leeds-digital-agency-job-united-kingdom-leeds
+26-Jul-23 23:46:04 [INFO] Fetching post data: /search-jobs/35016750-flutter-developer-250-275-outside-ir35-fully-remote-job-united-kingdom-wolverhampton
+26-Jul-23 23:46:04 [INFO] Fetching post data: /search-jobs/35016747-d365-ce-technical-consultant-amsterdam-urgent-need-100per-hour-job-netherlands-amsterdam
+26-Jul-23 23:46:04 [INFO] Fetching post data: /search-jobs/35016733-business-central-support-consultant-gold-partner-35-000-45-000-job-united-kingdom-surrey
+26-Jul-23 23:46:04 [INFO] Fetching post data: /search-jobs/35016729-d365-business-central-functional-consultant-job-united-kingdom-manchester
+26-Jul-23 23:46:05 [INFO] Fetching post data: /search-jobs/35016723-senior-fullstack-developer-net-core-reactjs-job-australia-brisbane
+26-Jul-23 23:46:05 [INFO] Fetching post data: /search-jobs/35016720-senior-full-stack-developer-multiple-positions-job-australia-sydney
+26-Jul-23 23:46:05 [INFO] Fetching post data: /search-jobs/35016719-senior-ruby-on-rails-engineer-greenfield-project-job-australia-sydney
+26-Jul-23 23:46:06 [INFO] Fetching post data: /search-jobs/35016718-lead-ruby-on-rails-engineer-healthcare-industry-job-australia-sydney
+26-Jul-23 23:46:06 [INFO] Fetching post data: /search-jobs/35016717-mid-level-designer-job-australia-melbourne
+26-Jul-23 23:46:06 [INFO] Fetching post data: /search-jobs/35016716-senior-systems-engineer-remote-job-australia-sydney
+26-Jul-23 23:46:06 [INFO] Fetching post data: /search-jobs/35016715-sc-dv-cleared-security-architect-outside-ir35-fully-remote-500p-d-6-month-job-united-kingdom-london
+26-Jul-23 23:46:07 [INFO] Fetching post data: /search-jobs/35016702-python-developer-job-united-kingdom-bristol
+26-Jul-23 23:46:07 [INFO] Fetching post data: /search-jobs/35016701-vue-developer-300-375-outside-ir35-hybrid-job-united-kingdom-bristol
+26-Jul-23 23:46:07 [INFO] Fetching post data: /search-jobs/35016699-swindon-job-united-kingdom-swindon
+26-Jul-23 23:46:08 [INFO] Fetching post data: /search-jobs/35016698-react-developer-job-united-kingdom-leicester
+26-Jul-23 23:46:08 [INFO] Fetching post data: /search-jobs/35016696-data-quality-analyst-telecomms-experience-required-contract-job-united-kingdom-london
+26-Jul-23 23:46:08 [INFO] Fetching post data: /search-jobs/35016694-business-systems-lead-glasgow-2-days-hybrid-working-55-000-65-000-job-united-kingdom-port-glasgow
+26-Jul-23 23:46:09 [INFO] Fetching post data: /search-jobs/35016688-d365-ce-developer-central-london-65-000-75-000-job-united-kingdom-london
+26-Jul-23 23:46:09 [INFO] Fetching post data: /search-jobs/35016679-contract-react-developer-job-united-kingdom-manchester
+26-Jul-23 23:46:09 [INFO] Fetching post data: /search-jobs/35016678-contract-devops-engineer-job-united-kingdom-york
+26-Jul-23 23:46:09 [INFO] Fetching post data: /search-jobs/35016644-dynamics-crm-developer-ce-customer-service-job-united-kingdom-london
+26-Jul-23 23:46:10 [INFO] Fetching post data: /search-jobs/35016638-systems-designer-outside-ir35-3-months-remote-200-225p-d-job-united-kingdom-london
+26-Jul-23 23:46:10 [INFO] Fetching post data: /search-jobs/35016632-d365-finance-consultant-job-united-kingdom-manchester
+26-Jul-23 23:46:10 [INFO] Fetching post data: /search-jobs/35016629-saas-security-specialist-outside-ir35-5-months-630p-d-fully-remote-job-united-kingdom-london
+26-Jul-23 23:46:11 [INFO] Fetching post data: /search-jobs/35016617-lead-react-developer-job-united-kingdom-reigate
+26-Jul-23 23:46:11 [INFO] Fetching post data: /search-jobs/35016616-contract-azure-devops-engineer-job-united-kingdom-manchester
+26-Jul-23 23:46:11 [INFO] Fetching post data: /search-jobs/35016615-front-end-developer-375-400-outside-ir35-fully-remote-job-united-kingdom-exeter
+26-Jul-23 23:46:11 [INFO] Fetching post data: /search-jobs/35016613-magento-contract-developer-6-months-outside-ir35-job-united-kingdom-remote-work
+26-Jul-23 23:46:12 [INFO] Fetching post data: /search-jobs/35016608-net-developer-job-united-kingdom-birmingham
+26-Jul-23 23:46:12 [INFO] Fetching post data: /search-jobs/35016592-senior-product-designer-b2c-contract-outside-of-ir-35-job-united-kingdom-london
+26-Jul-23 23:46:12 [INFO] Fetching post data: /search-jobs/35016575-bristol-sql-aws-r-35-000-45-000-data-analyst-sustainability-job-united-kingdom-bristol
+26-Jul-23 23:46:13 [INFO] Fetching post data: /search-jobs/35016571-net-developer-new-tech-digital-transformation-job-united-kingdom-basingstoke
+26-Jul-23 23:46:13 [INFO] Fetching post data: /search-jobs/35016566-software-developer-remote-net-job-united-kingdom-hampshire
+26-Jul-23 23:46:13 [INFO] Fetching post data: /search-jobs/35016563-ruby-developer-job-united-kingdom-remote-work
+26-Jul-23 23:46:13 [INFO] Fetching post data: /search-jobs/35016560-gcp-devops-engineer-inside-ir35-short-term-contract-job-united-kingdom-london
+26-Jul-23 23:46:14 [INFO] Fetching post data: /search-jobs/35016553-senior-d365-ce-developer-london-hybrid-60-000-80-000-job-united-kingdom-london
+26-Jul-23 23:46:14 [INFO] Fetching post data: /search-jobs/35016498-contract-azure-data-engineer-job-united-kingdom-leeds
+26-Jul-23 23:46:14 [INFO] Fetching post data: /search-jobs/35016493-marketing-executive-tech4good-bristol-hybrid-35-000-40-000-job-united-kingdom-bristol
+26-Jul-23 23:46:15 [INFO] Fetching post data: /search-jobs/35016399-redhat-openstack-engineer-remote-contract-job-united-kingdom-remote-work
+26-Jul-23 23:46:15 [INFO] Fetching post data: /search-jobs/35016441-gcp-devops-engineer-immediate-start-outside-ir35-contract-job-united-kingdom-london
+26-Jul-23 23:46:15 [INFO] Fetching post data: /search-jobs/35016439-technical-delivery-manager-6-12-months-outside-ir35-450p-d-surrey-one-day-per-week-job-united-kingdom-surrey
+26-Jul-23 23:46:15 [INFO] Fetching post data: /search-jobs/35016405-ruby-on-rails-senior-engineer-australia-remote-job-australia-sydney
+26-Jul-23 23:46:16 [INFO] Fetching post data: /search-jobs/35016404-mid-snr-quality-engineer-web-job-australia-sydney
+26-Jul-23 23:46:16 [INFO] Fetching post data: /search-jobs/35016402-urgent-data-business-analysis-position-12-months-outside-ir35-job-united-kingdom-london
+26-Jul-23 23:46:16 [INFO] Fetching post data: /search-jobs/35016401-fullstack-react-node-developer-job-united-kingdom-wolverhampton
+26-Jul-23 23:46:17 [INFO] Fetching post data: /search-jobs/35016400-electronic-design-engineer-outside-ir35-2-days-on-site-surrey-350pd-job-united-kingdom-surrey
+26-Jul-23 23:46:17 [INFO] Fetching post data: /search-jobs/35016391-devops-engineer-job-united-kingdom-gloucester
+26-Jul-23 23:46:18 [INFO] Fetching post data: /search-jobs/35016363-contract-full-stack-php-developer-job-united-kingdom-manchester
+26-Jul-23 23:46:18 [INFO] Fetching post data: /search-jobs/35016326-azure-devops-engineer-job-united-kingdom-london
+26-Jul-23 23:46:18 [INFO] Fetching post data: /search-jobs/35016325-fullstack-javascript-engineer-job-united-kingdom-city-of-london
+26-Jul-23 23:46:19 [INFO] Fetching post data: /search-jobs/35016282-hardware-engineer-outside-ir35-2-days-on-site-surrey-350pd-job-united-kingdom-surrey
+26-Jul-23 23:46:19 [INFO] Fetching post data: /search-jobs/35016257-net-api-developer-job-united-kingdom-london
+26-Jul-23 23:46:19 [INFO] Fetching post data: /search-jobs/35016255-senior-cloud-engineer-job-united-kingdom-wiltshire
+26-Jul-23 23:46:19 [INFO] Fetching post data: /search-jobs/35016236-it-infrastructure-auditor-job-united-kingdom-milton-keynes
+26-Jul-23 23:46:20 [INFO] Fetching post data: /search-jobs/35016223-azure-devops-engineer-outside-ir35-contract-energy-sector-experience-required-job-united-kingdom-london
+26-Jul-23 23:46:20 [INFO] Fetching post data: /search-jobs/35016221-php-contract-hybrid-job-united-kingdom-london
+26-Jul-23 23:46:20 [INFO] Fetching post data: /search-jobs/35016220-digital-account-executive-job-united-kingdom-london
+26-Jul-23 23:46:21 [INFO] Fetching post data: /search-jobs/35016209-mid-senior-ruby-on-rails-sydney-based-job-australia-sydney
+26-Jul-23 23:46:21 [INFO] Fetching post data: /search-jobs/35016205-network-architect-job-australia-melbourne
+26-Jul-23 23:46:21 [INFO] Fetching post data: /search-jobs/35016197-node-developer-325-425-outside-ir35-fully-remote-job-united-kingdom-bristol
+26-Jul-23 23:46:21 [INFO] Fetching post data: /search-jobs/35016194-client-services-executive-digital-project-manager-job-united-kingdom-balham
+26-Jul-23 23:46:22 [INFO] Fetching post data: /search-jobs/35016183-devops-engineer-c-job-united-kingdom-bath
+26-Jul-23 23:46:22 [INFO] Fetching post data: /search-jobs/35016181-node-backend-developer-job-united-kingdom-norwich
+26-Jul-23 23:46:22 [INFO] Fetching post data: /search-jobs/35016179-ai-data-engineer-vacancy-6-months-remote-outside-ir35-job-united-kingdom-london-arena
+26-Jul-23 23:46:23 [INFO] Fetching post data: /search-jobs/35016177-product-marketing-manager-tech4good-bristol-45-000-55-000-job-united-kingdom-bristol
+26-Jul-23 23:46:23 [INFO] Fetching post data: /search-jobs/35016167-salesforce-project-manager-job-united-kingdom-remote-work
+26-Jul-23 23:46:23 [INFO] Fetching post data: /search-jobs/35016158-salesforce-business-analyst-job-united-kingdom-remote-work
+26-Jul-23 23:46:23 [INFO] Fetching post data: /search-jobs/35016109-sc-cleared-interaction-designer-outside-ir35-remote-job-united-kingdom-london
+26-Jul-23 23:46:24 [INFO] Fetching post data: /search-jobs/35016107-techno-functional-consultant-dynamics-crm-ce-senior-experienced-job-united-kingdom-greater-manchester
+26-Jul-23 23:46:24 [INFO] Fetching post data: /search-jobs/35016102-junior-graphic-designer-6-month-contract-job-united-kingdom-london
+26-Jul-23 23:46:24 [INFO] Fetching post data: /search-jobs/35016080-software-developer-c-net-tech4good-40-000-50-000-job-united-kingdom-sheffield
+26-Jul-23 23:46:25 [INFO] Fetching post data: /search-jobs/35016077-junior-d365-ce-techno-functional-consultant-liverpool-hybrid-35-000-45-000-job-united-kingdom-liverpool
+26-Jul-23 23:46:25 [INFO] Fetching post data: /search-jobs/35016075-generative-ai-trainer-6-months-outside-ir35-job-united-kingdom-london
+26-Jul-23 23:46:25 [INFO] Fetching post data: /search-jobs/35016053-full-stack-python-engineer-largely-remote-job-united-kingdom-birmingham
+26-Jul-23 23:46:25 [INFO] Fetching post data: /search-jobs/35016019-d365-f-o-developer-12-month-contract-job-belgium-liege
+26-Jul-23 23:46:26 [INFO] Fetching post data: /search-jobs/35016002-technical-service-desk-technician-job-netherlands-amsterdam
+26-Jul-23 23:46:26 [INFO] Fetching post data: /search-jobs/35015999-python-c-engineer-software-engineer-job-australia-adelaide
+26-Jul-23 23:46:26 [INFO] Fetching post data: /search-jobs/35015998-full-stack-javascript-developer-job-united-kingdom-leeds
+26-Jul-23 23:46:27 [INFO] Fetching post data: /search-jobs/35015997-azure-devops-engineer-job-united-kingdom-leeds
+26-Jul-23 23:46:27 [INFO] Fetching post data: /search-jobs/35015996-devops-engineer-london-outside-ir35-job-united-kingdom-london
+26-Jul-23 23:46:27 [INFO] Fetching post data: /search-jobs/35015995-azure-devops-engineer-job-united-kingdom-leeds
+26-Jul-23 23:46:28 [INFO] Fetching post data: /search-jobs/35015994-angular-developer-job-united-kingdom-stafford
+26-Jul-23 23:46:28 [INFO] Fetching post data: /search-jobs/35015993-python-engineer-consultancy-job-united-kingdom-london
+26-Jul-23 23:46:28 [INFO] Fetching post data: /search-jobs/35015992-wordpress-woocommerce-php-developer-contract-job-united-kingdom-remote-work
+26-Jul-23 23:46:28 [INFO] Fetching post data: /search-jobs/35015991-power-bi-sql-ssis-ssrs-t-sql-azure-gloucester-senior-bi-developer-55-000-65-000-job-united-kingdom-gloucester
+26-Jul-23 23:46:29 [INFO] Fetching post data: /search-jobs/35015989-lead-net-developer-up-to-80k-job-united-kingdom-bristol
+26-Jul-23 23:46:29 [INFO] Fetching post data: /search-jobs/35015987-lead-software-developer-up-to-80k-job-united-kingdom-wales
+26-Jul-23 23:46:29 [INFO] Fetching post data: /search-jobs/35015984-senior-dynamics-ce-developer-london-72-000-90-000-job-united-kingdom-london
+26-Jul-23 23:46:30 [INFO] Fetching post data: /search-jobs/35015979-dynamics-bc-consultant-food-distribution-65-000-75-000-remote-job-united-kingdom-milton-keynes
+26-Jul-23 23:46:30 [INFO] Fetching post data: /search-jobs/35015975-security-grc-consultant-outside-ir35-remote-3-6-months-400pd-job-united-kingdom-london
+26-Jul-23 23:46:30 [INFO] Fetching post data: /search-jobs/35015959-it-support-engineer-job-united-kingdom-salisbury
+26-Jul-23 23:46:30 [INFO] Fetching post data: /search-jobs/35015958-it-support-engineers-job-united-kingdom-salisbury
+26-Jul-23 23:46:31 [INFO] Fetching post data: /search-jobs/35015957-devops-engineer-gcp-green-energy-job-united-kingdom-stoke-on-trent
+26-Jul-23 23:46:31 [INFO] Fetching post data: /search-jobs/35015939-solutions-architect-net-cms-kentico-job-united-kingdom-oxfordshire
+26-Jul-23 23:46:31 [INFO] Fetching post data: /search-jobs/35015938-net-developer-remote-uk-only-job-united-kingdom-west-sussex
+26-Jul-23 23:46:32 [INFO] Fetching post data: /search-jobs/35015936-software-developer-net-c-50k-60k-job-united-kingdom-hampshire
+26-Jul-23 23:46:32 [INFO] Fetching post data: /search-jobs/35015935-mid-javascript-developer-tech4good-node-typescript-react-sql-aws-bristol-2-days-55k-job-united-kingdom-bristol
+26-Jul-23 23:46:32 [INFO] Fetching post data: /search-jobs/35015930-full-stack-ruby-developer-contract-job-united-kingdom-london
+26-Jul-23 23:46:32 [INFO] Fetching post data: /search-jobs/35015923-react-developer-job-united-kingdom-city-of-london
+26-Jul-23 23:46:33 [INFO] Fetching post data: /search-jobs/35015916-physical-access-control-delivery-manager-job-united-kingdom-london
+26-Jul-23 23:46:33 [INFO] Fetching post data: /search-jobs/35015909-senior-python-engineer-job-united-kingdom-city-of-london
+26-Jul-23 23:46:33 [INFO] Fetching post data: /search-jobs/35015908-d365-business-central-technical-consultant-job-united-kingdom-london
+26-Jul-23 23:46:34 [INFO] Fetching post data: /search-jobs/35015906-mid-senior-java-developer-job-australia-melbourne
+26-Jul-23 23:46:34 [INFO] Fetching post data: /search-jobs/35015905-embedded-software-engineer-job-australia-adelaide
+26-Jul-23 23:46:34 [INFO] Fetching post data: /search-jobs/35015902-automation-test-engineer-api-focus-job-australia-sydney
+26-Jul-23 23:46:34 [INFO] Fetching post data: /search-jobs/35015901-senior-platform-engineer-job-australia-sydney
+26-Jul-23 23:46:35 [INFO] Fetching post data: /search-jobs/35015900-java-developer-65k-75k-tech-of-the-year-job-united-kingdom-bristol
+26-Jul-23 23:46:35 [INFO] Fetching post data: /search-jobs/35015899-java-developer-data-driven-automated-solutions-tech-of-the-year-job-united-kingdom-reading
+26-Jul-23 23:46:35 [INFO] Fetching post data: /search-jobs/35015898-java-developer-data-driven-solutions-tech-of-the-year-job-united-kingdom-birmingham
+26-Jul-23 23:46:36 [INFO] Fetching post data: /search-jobs/35015894-d365-ce-azure-developer-remote-within-the-uk-60-000-75-0000-job-united-kingdom-united-kingdom
+26-Jul-23 23:46:36 [INFO] Fetching post data: /search-jobs/35015892-react-developer-job-united-kingdom-birmingham
+26-Jul-23 23:46:36 [INFO] Fetching post data: /search-jobs/35015889-full-stack-developer-400-450-outside-ir35-fully-remote-job-united-kingdom-bristol
+26-Jul-23 23:46:36 [INFO] Fetching post data: /search-jobs/35015874-contract-react-developer-job-united-kingdom-manchester
+26-Jul-23 23:46:37 [INFO] Fetching post data: /search-jobs/35015872-software-developer-job-united-kingdom-hampshire
+26-Jul-23 23:46:37 [INFO] Fetching post data: /search-jobs/35015870-senior-software-developer-net-c-cms-70k-job-united-kingdom-oxfordshire
+26-Jul-23 23:46:37 [INFO] Fetching post data: /search-jobs/35015863-senior-frontend-developer-javascript-react-html-css-jquery-agency-fully-remote-65-000-75-000-job-united-kingdom-united-kingdom
+26-Jul-23 23:46:38 [INFO] Fetching post data: /search-jobs/35015843-senior-bi-developer-gloucester-55-000-65-000-power-bi-sql-job-united-kingdom-gloucester
+26-Jul-23 23:46:38 [INFO] Fetching post data: /search-jobs/35015837-dynamics-crm-ce-technical-architect-marketing-and-field-service-modules-job-united-kingdom-london
+26-Jul-23 23:46:38 [INFO] Fetching post data: /search-jobs/35015823-java-developer-tech-for-good-100-remote-job-united-kingdom-bournemouth
+26-Jul-23 23:46:38 [INFO] Fetching post data: /search-jobs/35015821-java-developer-giving-back-to-our-community-via-tech-100-remote-job-united-kingdom-devon
+26-Jul-23 23:46:39 [INFO] Fetching post data: /search-jobs/35015820-java-developer-tech-for-good-100-remote-job-united-kingdom-exeter
+26-Jul-23 23:46:39 [INFO] Fetching post data: /search-jobs/35015800-marketing-science-manager-job-united-kingdom-london
+26-Jul-23 23:46:39 [INFO] Fetching post data: /search-jobs/35015797-senior-marketing-analyst-job-united-kingdom-london
+26-Jul-23 23:46:40 [INFO] Fetching post data: /search-jobs/35015794-d365-ce-crm-functional-consultant-london-hybrid-50-000-70-000-job-united-kingdom-london
+26-Jul-23 23:46:40 [INFO] Fetching post data: /search-jobs/35015793-data-centre-engineer-job-united-kingdom-worcester
+26-Jul-23 23:46:40 [INFO] Fetching post data: /search-jobs/35015782-senior-functional-consultant-microsoft-dynamics-uk-hybrid-70-000-85-000-job-united-kingdom-united-kingdom
+26-Jul-23 23:46:40 [INFO] Fetching post data: /search-jobs/35015768-programme-manager-job-united-kingdom-london
+26-Jul-23 23:46:41 [INFO] Fetching post data: /search-jobs/35015763-cloud-solution-architect-job-united-kingdom-bristol
+26-Jul-23 23:46:41 [INFO] Fetching post data: /search-jobs/35015758-senior-microsoft-dynamics-crm-business-analyst-london-hybrid-job-united-kingdom-london
+26-Jul-23 23:46:41 [INFO] Fetching post data: /search-jobs/35015717-contract-desktop-support-technician-job-united-kingdom-edinburgh
+26-Jul-23 23:46:42 [INFO] Fetching post data: /search-jobs/35015715-d365-ce-lead-functional-consultant-remote-competitive-12-month-contract-job-united-kingdom-remote-work
+26-Jul-23 23:46:42 [INFO] Fetching post data: /search-jobs/35015708-life-actuary-data-scientist-job-united-kingdom-london
+26-Jul-23 23:46:42 [INFO] Fetching post data: /search-jobs/35015694-penetration-tester-job-australia-sydney
+26-Jul-23 23:46:42 [INFO] Fetching post data: /search-jobs/35015692-security-cleared-python-developer-job-united-kingdom-london
+26-Jul-23 23:46:43 [INFO] Fetching post data: /search-jobs/35015688-contract-vmware-engineer-job-united-kingdom-england
+26-Jul-23 23:46:43 [INFO] Fetching post data: /search-jobs/35002770-sc-cleared-content-designer-job-united-kingdom-united-kingdom
+26-Jul-23 23:46:43 [INFO] Fetching post data: /search-jobs/35015676-d365-business-central-finance-consultant-x-food-manufacturing-experience-job-united-kingdom-leicester
+26-Jul-23 23:46:44 [INFO] Fetching post data: /search-jobs/35015673-d365-ce-senior-team-lead-functional-consultant-rotterdam-competitive-12-month-contract-job-netherlands-rotterdam
+26-Jul-23 23:46:44 [INFO] Fetching post data: /search-jobs/35015667-service-designer-outside-ir35-500-a-day-job-united-kingdom-london
+26-Jul-23 23:46:44 [INFO] Fetching post data: /search-jobs/35015665-d365-ce-developer-uk-based-60-000-75-000-job-united-kingdom-london
+26-Jul-23 23:46:44 [INFO] Fetching post data: /search-jobs/35015628-digital-product-manager-job-united-kingdom-london
+26-Jul-23 23:46:45 [INFO] Fetching post data: /search-jobs/35015619-user-researcher-job-united-kingdom-london
+26-Jul-23 23:46:45 [INFO] Fetching post data: /search-jobs/35015618-platform-engineer-job-australia-sydney
+26-Jul-23 23:46:45 [INFO] Fetching post data: /search-jobs/35015616-junior-solution-architect-job-australia-melbourne
+26-Jul-23 23:46:46 [INFO] Fetching post data: /search-jobs/35015614-mid-level-software-engineer-fully-remote-job-australia-sydney
+26-Jul-23 23:46:46 [INFO] Saving job posts to Opus_20230726.csv
+26-Jul-23 23:46:46 [INFO] Saving job posts to Opus_20230726.json
